@@ -1,0 +1,12 @@
+1. Faça um programa que leia um númerointeiro e o imprima.
+2. Façaum programa que leia um númeroreal e o imprima.
+3. Façaum programa que leia trêsvalores inteiros e imprima a soma deles.
+4. Façaum  programa  que  leia  uma  temperatura  emgraus  Celsius  e  apresente-a  convertida  em graus  Fahrenheit.  A  formula  de conversãoé:  F  =  C∗(9.0/5.0)+32.0,  sendo  F  a  temperatura  em Fahrenheit e C a temperatura em Celsius.
+5. Façaum  programa  que  leia  uma  temperatura  em  graus  Fahrenheit  e  apresente-a  convertida em graus Celsius. A formula de conversãoé: C = 5.0 ∗(F −32.0)/9.0, sendo C a temperatura em Celsius e F a temperatura em Fahrenheit.
+6. Façaum programa que receba dois números e mostre qual deles é o maior.
+7. Façaum programa que leia um númerocaso seja positivo, calcule a raiz quadrada do número. Caso o númeroseja negativo, mostre uma mensagem dizendo que o númeroé invalido.
+8. Façaum programa que leia um númeroe, caso ele seja positivo, calcule e mostre: 
+  • O númerodigitado ao quadrado
+  • A raiz quadrada do númerodigitado
+9. Façaum programa que receba um númerointeiro e verifique se este númeroe par ou ímpar.
+10. Façaum  programa  que  receba  leia  um  inteiro  entre  1  e  7  e  imprima  o  dia  da  semana correspondente a este número. Istoe, domingo se 1, segunda-feira se 2, e assim por diante.
