@@ -6,8 +6,8 @@
 //conexão com o banco de dados
 
     define('BD_SERVIDOR', 'localhost');
-    define('BD_USUARIO', 'id18842383_localhost');
-    define('BD_SENHA', '=Wwdm3f&V$Ni8u<r');
-    define('BD_BANCO', 'id18842383_livraria');
+    define('BD_USUARIO', 'id18842267_root');
+    define('BD_SENHA', '%]&SdJ>Eb_jYC$s0');
+    define('BD_BANCO', 'id18842267_db_login');
 
 ?>
